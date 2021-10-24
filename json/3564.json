@@ -1,0 +1,31 @@
+{
+  "name": "Planet of LunApes #3564",
+  "description": "Humans are torturing us. Now we're on a spaceship trying to take off from earth. With 9,999 of us having escaped the laboratory made by wicked humans.",
+  "image": "",
+  "dna": "8736be4ec4d31f552ff323bee55b217714eebe2e",
+  "edition": 3564,
+  "date": 1635048407379,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Mushroom"
+    },
+    {
+      "trait_type": "Body Base",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Rommy Outfit"
+    },
+    {
+      "trait_type": "Face",
+      "value": "full gas mask red001"
+    },
+    {
+      "trait_type": "Head Accesories",
+      "value": "Beanie with Pompom"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

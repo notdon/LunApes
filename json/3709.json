@@ -1,0 +1,31 @@
+{
+  "name": "Planet of LunApes #3709",
+  "description": "Humans are torturing us. Now we're on a spaceship trying to take off from earth. With 9,999 of us having escaped the laboratory made by wicked humans.",
+  "image": "",
+  "dna": "459fecbb2fbbecee16939946c2a6cacd0fab1594",
+  "edition": 3709,
+  "date": 1635048561522,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gaslight Yellow"
+    },
+    {
+      "trait_type": "Body Base",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Cyberpunk Akira Outfit"
+    },
+    {
+      "trait_type": "Face",
+      "value": "full gas mask red001"
+    },
+    {
+      "trait_type": "Head Accesories",
+      "value": "Beanie with Pompom"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Planet of LunApes #2934",
+  "description": "Humans are torturing us. Now we're on a spaceship trying to take off from earth. With 9,999 of us having escaped the laboratory made by wicked humans.",
+  "image": "",
+  "dna": "cfa3c0a5cd79dda71f27c23a0570301ec7f06439",
+  "edition": 2934,
+  "date": 1635047740810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gaslight Pink"
+    },
+    {
+      "trait_type": "Body Base",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Naruto Outfit"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Howkandroid"
+    },
+    {
+      "trait_type": "Head Accesories",
+      "value": "samurai head acc"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

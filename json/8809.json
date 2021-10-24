@@ -1,0 +1,31 @@
+{
+  "name": "Planet of LunApes #8809",
+  "description": "Humans are torturing us. Now we're on a spaceship trying to take off from earth. With 9,999 of us having escaped the laboratory made by wicked humans.",
+  "image": "",
+  "dna": "f3a855ff1e7fe93b8f2a5dfea2887c0efcb50021",
+  "edition": 8809,
+  "date": 1635054094746,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Mushroom"
+    },
+    {
+      "trait_type": "Body Base",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "the eternals"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Geisha Humanoid 2"
+    },
+    {
+      "trait_type": "Head Accesories",
+      "value": "cwornwings"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

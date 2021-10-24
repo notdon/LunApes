@@ -1,0 +1,31 @@
+{
+  "name": "Planet of LunApes #5425",
+  "description": "Humans are torturing us. Now we're on a spaceship trying to take off from earth. With 9,999 of us having escaped the laboratory made by wicked humans.",
+  "image": "",
+  "dna": "062978d0d73cb0a07de1a3994df4c699d629edf2",
+  "edition": 5425,
+  "date": 1635050389577,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Body Base",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "YakuzaDroid"
+    },
+    {
+      "trait_type": "Face",
+      "value": "squid game mask"
+    },
+    {
+      "trait_type": "Head Accesories",
+      "value": "gohan hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

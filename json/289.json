@@ -1,0 +1,27 @@
+{
+  "name": "Planet of LunApes #289",
+  "description": "Humans are torturing us. Now we're on a spaceship trying to take off from earth. With 9,999 of us having escaped the laboratory made by wicked humans.",
+  "image": "",
+  "dna": "aa396b8f006fbdf35862fac14d19953480bb2344",
+  "edition": 289,
+  "date": 1635044964853,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Splatter Blue"
+    },
+    {
+      "trait_type": "Body Base",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "WHITE SWEATER Outfit"
+    },
+    {
+      "trait_type": "Full Head Accesories",
+      "value": "FH Megaman"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

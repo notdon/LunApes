@@ -1,0 +1,31 @@
+{
+  "name": "Planet of LunApes #5272",
+  "description": "Humans are torturing us. Now we're on a spaceship trying to take off from earth. With 9,999 of us having escaped the laboratory made by wicked humans.",
+  "image": "",
+  "dna": "578bc0bfc26ce63cd1319340bdda2f3dbeccb2ca",
+  "edition": 5272,
+  "date": 1635050228162,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Daze"
+    },
+    {
+      "trait_type": "Body Base",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "spider outfit"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Anbu Mask"
+    },
+    {
+      "trait_type": "Head Accesories",
+      "value": "hanooman helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

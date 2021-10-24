@@ -1,0 +1,31 @@
+{
+  "name": "Planet of LunApes #6226",
+  "description": "Humans are torturing us. Now we're on a spaceship trying to take off from earth. With 9,999 of us having escaped the laboratory made by wicked humans.",
+  "image": "",
+  "dna": "1f4acaf30d3eaa0048f626888240f44c9302a53e",
+  "edition": 6226,
+  "date": 1635051237708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "King"
+    },
+    {
+      "trait_type": "Body Base",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "APEBULLARMOR"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Termin"
+    },
+    {
+      "trait_type": "Head Accesories",
+      "value": "angel ring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Planet of LunApes #3766",
+  "description": "Humans are torturing us. Now we're on a spaceship trying to take off from earth. With 9,999 of us having escaped the laboratory made by wicked humans.",
+  "image": "",
+  "dna": "a153e70c79f44ff00bc333c0e283be602f5a2f0f",
+  "edition": 3766,
+  "date": 1635048621824,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gaslight Purple"
+    },
+    {
+      "trait_type": "Body Base",
+      "value": "White"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "HISOKA OUTFIT"
+    },
+    {
+      "trait_type": "Face",
+      "value": "scorpionmask"
+    },
+    {
+      "trait_type": "Head Accesories",
+      "value": "Loki"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
