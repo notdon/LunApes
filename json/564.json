@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Gaslight Purple"
+      "value": "The Exoskeleton Interstellar Background"
     },
     {
       "trait_type": "Body Base",
-      "value": "Orange"
+      "value": "The Exoskeleton Interstellar Body"
     },
     {
       "trait_type": "Outfit",
-      "value": "fugitive"
+      "value": "The Exoskeleton Interstellar Outfit"
     },
     {
       "trait_type": "Face",
-      "value": "full gas mask red001"
+      "value": "The Exoskeleton Interstellar Face"
     },
     {
       "trait_type": "Head Accesories",
-      "value": "Aviator"
+      "value": "The Exoskeleton Interstellar Head Accessories"
     }
   ],
   "compiler": "HashLips Art Engine"

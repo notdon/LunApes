@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Splatter Yellow"
+      "value": "The Trippy Gamer Background"
     },
     {
       "trait_type": "Body Base",
-      "value": "Purple"
+      "value": "The Trippy Gamer Body"
     },
     {
       "trait_type": "Outfit",
-      "value": "Knight armor"
+      "value": "The Trippy Gamer Outfit"
     },
     {
       "trait_type": "Face",
-      "value": "Anbu Mask"
+      "value": "The Trippy Gamer Face"
     },
     {
       "trait_type": "Head Accesories",
-      "value": "Aviator"
+      "value": "The Trippy Gamer Head Accessories"
     }
   ],
   "compiler": "HashLips Art Engine"

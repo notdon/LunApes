@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Gaslight Purple"
+      "value": "The Time Traveler Background"
     },
     {
       "trait_type": "Body Base",
-      "value": "Purple"
+      "value": "The Time Traveler Body"
     },
     {
       "trait_type": "Outfit",
-      "value": "Naruto Outfit"
+      "value": "The Time Traveler Outfit"
     },
     {
       "trait_type": "Face",
-      "value": "Anbu Mask"
+      "value": "The Time Traveler Face"
     },
     {
       "trait_type": "Head Accesories",
-      "value": "Aviator"
+      "value": "The Time Traveler Head Accessories"
     }
   ],
   "compiler": "HashLips Art Engine"

@@ -8,23 +8,23 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Hammer Head"
+      "value": "The Trip To Mummy Background"
     },
     {
       "trait_type": "Body Base",
-      "value": "Gold Body"
+      "value": "The Trip To Mummy Body"
     },
     {
       "trait_type": "Outfit",
-      "value": "outfit angels armour"
+      "value": "The Trip To Mummy Outfit"
     },
     {
       "trait_type": "Face",
-      "value": "Anbu Mask"
+      "value": "The Trip To Mummy Face"
     },
     {
       "trait_type": "Head Accesories",
-      "value": "Cup Hat"
+      "value": "The Trip To Mummy Head Accessories"
     }
   ],
   "compiler": "HashLips Art Engine"
